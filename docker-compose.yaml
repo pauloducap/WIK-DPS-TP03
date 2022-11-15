@@ -71,3 +71,5 @@ networks:
 # Déclaration des volumes nommés
 volumes:
   db_data:
+
+  
